@@ -14,5 +14,5 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-Contract address: [0x934333c64FaCa3bFA87fB7a9863dc18A4D6e5B3C](https://mumbai.polygonscan.com/address/0x934333c64FaCa3bFA87fB7a9863dc18A4D6e5B3C)
+Contract address: [0x55De38aB194E5E8c5005a4110AA578aAAcaccd4C](https://mumbai.polygonscan.com/address/0x55De38aB194E5E8c5005a4110AA578aAAcaccd4C)
 
